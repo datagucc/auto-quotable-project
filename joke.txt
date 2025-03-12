@@ -1,1 +1,1 @@
-// This line doesn't actually do anything, but the code stops working when I delete it.
+I went to the zoo the other day. There was only a dog in it – it was a shihtzu.
