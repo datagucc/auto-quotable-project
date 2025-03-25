@@ -4,7 +4,7 @@ os.chdir('/Users/focus_profond/GIT_repo/auto-quotable-project')
 import requests
 import datetime
 import subprocess
-
+#hello script starts now
 API_URL = "https://v2.jokeapi.dev/joke/Any?type=single"
 
 def fetch_joke():
