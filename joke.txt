@@ -1,1 +1,5 @@
-I was struggling to figure out how lightning works, but then it struck me.
+How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5.
