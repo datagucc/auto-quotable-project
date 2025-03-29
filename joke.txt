@@ -1,1 +1,3 @@
-Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+Documentation is like sex:
+When it's good, it's very good.
+When it's bad, it's better than nothing...
