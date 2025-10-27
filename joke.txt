@@ -1,1 +1,2 @@
-// This line doesn't actually do anything, but the code stops working when I delete it.
+Nowadays people are so sensitive, you can't even say "black paint" anymore.
+Instead, you have to say "Jamal, please paint the fence".
